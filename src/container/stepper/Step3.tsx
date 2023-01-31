@@ -40,7 +40,7 @@ const Step2:FC = () => {
     return (
         <form onSubmit={handleSubmit(onSubmit)} className="bg-white shadow-md rounded p-12 m-10">            
             
-            <div className="grid grid-cols-2 gap-4">
+            <div>
                 <label className="block text-gray-700 text-sm font-bold h-8" >
                     Accept the Condation:
                 </label>   
@@ -60,13 +60,12 @@ const Step2:FC = () => {
                 <p className="text-sm text-red-600 mt-1">{errors.condation.message}</p>
             )}            
             
-            <div className="grid grid-cols-8 mt-4">
-                <div className="col-span-7"></div>
+            <div className="flex flex-row-reverse m-8">               
                 <button 
                     type="submit"
                     className="w-full inline-block px-6 py-2 border-2 border-blue-600 text-blue-600 font-medium
                     text-xs leading-normal uppercase rounded hover:bg-blue hover:bg-opacity-5 focus:outline-none 
-                    focus:ring-0 transition duration-150 ease-in-out h-16 "
+                    focus:ring-0 transition duration-150 ease-in-out h-16 lg:basis-1/6 md:basis-full sm:basis-full basis-full "
                 >
                  next step
                 </button>

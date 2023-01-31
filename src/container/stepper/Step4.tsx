@@ -21,7 +21,7 @@ const Step4 = () => {
 
    
     return (
-        <div className="bg-white shadow-md rounded p-12 m-10"> 
+        <div className="bg-white shadow-md rounded p-12 m-10 break-words lg:text-base md:text-xs sm:text-xs text-xs"> 
 
             {itemText(`Step 1`)}              
             <div className="ml-6">                

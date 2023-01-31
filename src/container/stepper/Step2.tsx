@@ -53,9 +53,9 @@ const Step2: FC = () => {
 
     return (
         <form onSubmit={handleSubmit(onSubmit)} className="bg-white shadow-md rounded p-12 m-10">
-            <div className="grid grid-cols-2 gap-4">
+            <div className="flex flex-row flex-wrap gap-10">
 
-                <div>
+                <div className="lg:basis-[48%] md:basis-full sm:basis-full basis-full" >
                     <label className="block text-gray-700 text-sm font-bold h-8" >
                         Date of Birth:
                     </label>
@@ -70,7 +70,7 @@ const Step2: FC = () => {
                     )}
                 </div>
 
-                <div>
+                <div className="lg:basis-[48%] md:basis-full sm:basis-full basis-full" >
                     <label className="block text-gray-700 text-sm font-bold h-8 " >
                         Address:
                     </label>
@@ -85,7 +85,7 @@ const Step2: FC = () => {
                     )}
                 </div>
 
-                <div>
+                <div className="lg:basis-[48%] md:basis-full sm:basis-full basis-full" >
                     <label className="block text-gray-700 text-sm font-bold h-8 " >
                         Height:
                     </label>
@@ -100,7 +100,7 @@ const Step2: FC = () => {
                     )}
                 </div>
 
-                <div>
+                <div className="lg:basis-[48%] md:basis-full sm:basis-full basis-full" >
                     <label className="block text-gray-700 text-sm font-bold h-8" >
                         Weight:
                     </label>
@@ -116,7 +116,7 @@ const Step2: FC = () => {
                     )}
                 </div>
 
-                <div>
+                <div className="lg:basis-1/6 md:basis-full sm:basis-full basis-full">
                     <label className="block text-gray-700 text-sm font-bold h-8" >                        
                         Spoken Lanquage:                 
                     </label>   
@@ -124,13 +124,12 @@ const Step2: FC = () => {
                 </div>
             </div>
  
-            <div className="grid grid-cols-8 mt-4">
-                <div className="col-span-7"></div>
+            <div className="flex flex-row-reverse m-8">                
                 <button 
                     type="submit"
                     className="w-full inline-block px-6 py-2 border-2 border-blue-600 text-blue-600 font-medium
                     text-xs leading-normal uppercase rounded hover:bg-blue hover:bg-opacity-5 focus:outline-none 
-                    focus:ring-0 transition duration-150 ease-in-out h-16 "
+                    focus:ring-0 transition duration-150 ease-in-out h-16 lg:basis-1/6 md:basis-full sm:basis-full basis-full "
                 >
                  next step
                 </button>
