@@ -1,0 +1,176 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>>> Stepper ++++ Snapshot of Stepper 1`] = `
+<div>
+  <ol
+    className="grid grid-cols-1 divide-x divide-gray-400 overflow-hidden rounded-lg border border-gray-400 text-sm text-gray-500 sm:grid-cols-4"
+  >
+    <li
+      className="relative flex items-center justify-center p-4"
+    >
+      <span
+        className="h-10 w-10  border-2 rounded-full border-blue-600	 text-center text-[14px] font-bold leading-10 text-blue-600"
+      >
+        1
+      </span>
+      <span
+        className="ml-4 text-base font-medium text-blue-600"
+      >
+        test text
+      </span>
+    </li>
+  </ol>
+</div>
+`;
+
+exports[`>>>> Stepper ++++ Snapshot of Stepper 1 1`] = `
+<div>
+  <ol
+    className="grid grid-cols-1 divide-x divide-gray-400 overflow-hidden rounded-lg border border-gray-400 text-sm text-gray-500 sm:grid-cols-4"
+  >
+    <li
+      className="relative flex items-center justify-center p-4"
+    >
+      <span
+        className="h-10 w-10  border-2 rounded-full border-blue-600	 text-center text-[14px] font-bold leading-10 text-blue-600"
+      >
+        1
+      </span>
+      <span
+        className="ml-4 text-base font-medium text-blue-600"
+      >
+        Step one
+      </span>
+    </li>
+    <li
+      className="relative flex items-center justify-center p-4"
+    >
+      <span
+        className="h-10 w-10  border-2 rounded-full  border-gray-400	 text-center text-[14px] font-bold leading-10 text-bule-600"
+      >
+        2
+      </span>
+      <span
+        className="ml-4 text-base font-medium text-bule-400"
+      >
+        Step two
+      </span>
+    </li>
+    <li
+      className="relative flex items-center justify-center p-4"
+    >
+      <span
+        className="h-10 w-10  border-2 rounded-full  border-gray-400	 text-center text-[14px] font-bold leading-10 text-bule-600"
+      >
+        3
+      </span>
+      <span
+        className="ml-4 text-base font-medium text-bule-400"
+      >
+        Step three
+      </span>
+    </li>
+    <li
+      className="relative flex items-center justify-center p-4"
+    >
+      <span
+        className="h-10 w-10  border-2 rounded-full  border-gray-400	 text-center text-[14px] font-bold leading-10 text-bule-600"
+      >
+        4
+      </span>
+      <span
+        className="ml-4 text-base font-medium text-bule-400"
+      >
+        Step four
+      </span>
+    </li>
+  </ol>
+</div>
+`;
+
+exports[`>>>> Stepper ++++ Snapshot of Stepper 3 1`] = `
+<div>
+  <ol
+    className="grid grid-cols-1 divide-x divide-gray-400 overflow-hidden rounded-lg border border-gray-400 text-sm text-gray-500 sm:grid-cols-4"
+  >
+    <li
+      className="relative flex items-center justify-center p-4"
+    >
+      <span
+        className="h-10 w-10 rounded-full bg-blue-600 text-center text-[14px] font-bold leading-10 text-white"
+      >
+        <svg
+          className="h-9 w-9"
+          fill="currentColor"
+          viewBox="0 0 20 20"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            clipRule="evenodd"
+            d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
+            fillRule="evenodd"
+          />
+        </svg>
+      </span>
+      <span
+        className="ml-4 text-base font-medium text-gray-900"
+      >
+        Step one
+      </span>
+    </li>
+    <li
+      className="relative flex items-center justify-center p-4"
+    >
+      <span
+        className="h-10 w-10 rounded-full bg-blue-600 text-center text-[14px] font-bold leading-10 text-white"
+      >
+        <svg
+          className="h-9 w-9"
+          fill="currentColor"
+          viewBox="0 0 20 20"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            clipRule="evenodd"
+            d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
+            fillRule="evenodd"
+          />
+        </svg>
+      </span>
+      <span
+        className="ml-4 text-base font-medium text-gray-900"
+      >
+        Step two
+      </span>
+    </li>
+    <li
+      className="relative flex items-center justify-center p-4"
+    >
+      <span
+        className="h-10 w-10  border-2 rounded-full border-blue-600	 text-center text-[14px] font-bold leading-10 text-blue-600"
+      >
+        3
+      </span>
+      <span
+        className="ml-4 text-base font-medium text-blue-600"
+      >
+        Step three
+      </span>
+    </li>
+    <li
+      className="relative flex items-center justify-center p-4"
+    >
+      <span
+        className="h-10 w-10  border-2 rounded-full  border-gray-400	 text-center text-[14px] font-bold leading-10 text-bule-600"
+      >
+        4
+      </span>
+      <span
+        className="ml-4 text-base font-medium text-bule-400"
+      >
+        Step four
+      </span>
+    </li>
+  </ol>
+</div>
+`;

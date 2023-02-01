@@ -1,0 +1,119 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>>> Stepper ++++ Snapshot of Stepper1 form 1`] = `
+<form
+  className="bg-white shadow-md rounded p-12 m-10"
+  onSubmit={[Function]}
+>
+  <div
+    className="flex flex-row flex-wrap gap-10"
+  >
+    <div
+      className="lg:basis-[48%] md:basis-full sm:basis-full basis-full"
+    >
+      <label
+        className="block text-gray-700 text-sm font-bold h-8"
+      >
+        Name:
+      </label>
+      <input
+        className="appearance-none border rounded p-2 h-16 w-full text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+        id="name"
+        name="name"
+        onBlur={[Function]}
+        onChange={[Function]}
+        type="text"
+      />
+    </div>
+    <div
+      className="lg:basis-[48%] md:basis-full sm:basis-full basis-full"
+    >
+      <label
+        className="block text-gray-700 text-sm font-bold h-8"
+      >
+        Email:
+      </label>
+      <input
+        className="appearance-none border h-16 p-2 rounded w-full text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+        id="name"
+        name="email"
+        onBlur={[Function]}
+        onChange={[Function]}
+        type="text"
+      />
+    </div>
+  </div>
+  <div
+    className="flex flex-row flex-wrap gap-10"
+  >
+    <div
+      className="lg:basis-[48%] md:basis-full sm:basis-full basis-full"
+    >
+      <label
+        className="block text-gray-700 text-sm font-bold h-8"
+      >
+        Phone:
+      </label>
+      <input
+        className="appearance-none border rounded p-2 h-16 w-full text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+        id="name"
+        name="phone"
+        onBlur={[Function]}
+        onChange={[Function]}
+        type="text"
+      />
+    </div>
+    <div
+      className="lg:basis-[48%] md:basis-full sm:basis-full basis-full"
+    >
+      <label
+        className="block text-gray-700 text-sm font-bold h-8"
+      >
+        Gender:
+      </label>
+      <select
+        className="form-select form-select-lg h-16 mb-3 appearance-none block w-full px-4 py-2
+ text-xl font-normal text-gray-700 bg-white bg-clip-padding bg-no-repeat
+ border border-solid border-gray-300 rounded transition ease-in-out m-0
+ focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none"
+        name="gender"
+        onBlur={[Function]}
+        onChange={[Function]}
+      >
+        <option
+          value="Select Gender"
+        >
+          Select Gender
+        </option>
+        <option
+          value="Male"
+        >
+          Male
+        </option>
+        <option
+          value="Female"
+        >
+          Female
+        </option>
+        <option
+          value="Other"
+        >
+          Other
+        </option>
+      </select>
+    </div>
+  </div>
+  <div
+    className="flex flex-row-reverse m-8 "
+  >
+    <button
+      className="w-full inline-block px-6 py-2 border-2 border-blue-600 text-blue-600 font-medium
+ text-xs leading-normal uppercase rounded hover:bg-blue hover:bg-opacity-5 focus:outline-none 
+ focus:ring-0 transition duration-150 ease-in-out h-16  lg:basis-1/6 md:basis-full sm:basis-full basis-full"
+      type="submit"
+    >
+      next step
+    </button>
+  </div>
+</form>
+`;

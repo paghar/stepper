@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>>> Stepper ++++ Snapshot of Stepper4 form 1`] = `
+<div
+  className="bg-white shadow-md rounded p-12 m-10 break-words lg:text-base md:text-xs sm:text-xs text-xs"
+>
+  <label
+    className="block text-gray-700 text-sm font-bold h-8"
+  >
+    Step 1
+  </label>
+  <div
+    className="ml-6"
+  >
+    <label
+      className="block text-gray-700 text-sm font-bold h-8"
+    >
+      Name:undefined
+    </label>
+    <label
+      className="block text-gray-700 text-sm font-bold h-8"
+    >
+      Email:undefined
+    </label>
+    <label
+      className="block text-gray-700 text-sm font-bold h-8"
+    >
+      Phone-number:undefined
+    </label>
+    <label
+      className="block text-gray-700 text-sm font-bold h-8"
+    >
+      Gender:undefined
+    </label>
+  </div>
+  <label
+    className="block text-gray-700 text-sm font-bold h-8"
+  >
+    Step 2
+  </label>
+  <div
+    className="ml-6"
+  >
+    <label
+      className="block text-gray-700 text-sm font-bold h-8"
+    >
+      Date of birth:undefined
+    </label>
+    <label
+      className="block text-gray-700 text-sm font-bold h-8"
+    >
+      Address:undefined
+    </label>
+    <label
+      className="block text-gray-700 text-sm font-bold h-8"
+    >
+      Spoken Languages:undefined
+    </label>
+    <label
+      className="block text-gray-700 text-sm font-bold h-8"
+    >
+      Height:undefined
+    </label>
+    <label
+      className="block text-gray-700 text-sm font-bold h-8"
+    >
+      Weight:undefined
+    </label>
+  </div>
+  <label
+    className="block text-gray-700 text-sm font-bold h-8"
+  >
+    Step 3
+  </label>
+  <div
+    className="ml-6"
+  >
+    <label
+      className="block text-gray-700 text-sm font-bold h-8"
+    >
+      Accept condition:undefined
+    </label>
+  </div>
+</div>
+`;

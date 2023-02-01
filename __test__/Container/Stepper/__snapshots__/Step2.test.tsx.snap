@@ -1,0 +1,331 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>>> Stepper ++++ Snapshot of Stepper1 form 1`] = `
+<form
+  className="bg-white shadow-md rounded p-12 m-10"
+  onSubmit={[Function]}
+>
+  <div
+    className="flex flex-row flex-wrap gap-10"
+  >
+    <div
+      className="lg:basis-[48%] md:basis-full sm:basis-full basis-full"
+    >
+      <label
+        className="block text-gray-700 text-sm font-bold h-8"
+      >
+        Date of Birth:
+      </label>
+      <input
+        className="appearance-none border rounded h-16 w-full text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+        id="brithDay"
+        name="brithDay"
+        onBlur={[Function]}
+        onChange={[Function]}
+        type="text"
+      />
+    </div>
+    <div
+      className="lg:basis-[48%] md:basis-full sm:basis-full basis-full"
+    >
+      <label
+        className="block text-gray-700 text-sm font-bold h-8 "
+      >
+        Address:
+      </label>
+      <input
+        className="appearance-none border h-16 rounded w-full text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+        id="address"
+        name="address"
+        onBlur={[Function]}
+        onChange={[Function]}
+        type="text"
+      />
+    </div>
+    <div
+      className="lg:basis-[48%] md:basis-full sm:basis-full basis-full"
+    >
+      <label
+        className="block text-gray-700 text-sm font-bold h-8 "
+      >
+        Height:
+      </label>
+      <input
+        className="appearance-none border h-16 rounded w-full text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+        id="height"
+        name="height"
+        onBlur={[Function]}
+        onChange={[Function]}
+        type="number"
+      />
+    </div>
+    <div
+      className="lg:basis-[48%] md:basis-full sm:basis-full basis-full"
+    >
+      <label
+        className="block text-gray-700 text-sm font-bold h-8"
+      >
+        Weight:
+      </label>
+      <input
+        className="appearance-none border h-16 rounded w-full text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+        id="Weight:"
+        name="weight"
+        onBlur={[Function]}
+        onChange={[Function]}
+        type="number"
+      />
+    </div>
+    <div
+      className="lg:basis-1/6 md:basis-full sm:basis-full basis-full"
+    >
+      <label
+        className="block text-gray-700 text-sm font-bold h-8"
+      >
+        Spoken Lanquage:
+      </label>
+      <div
+        className="pl-4"
+      >
+        <input
+          name="spokenLanguage"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="checkbox"
+          value="German"
+        />
+        <label
+          className="text-gray-700 text-sm h-8 m-2"
+        >
+          German
+        </label>
+      </div>
+      <div
+        className="pl-4"
+      >
+        <input
+          name="spokenLanguage"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="checkbox"
+          value="Franch"
+        />
+        <label
+          className="text-gray-700 text-sm h-8 m-2"
+        >
+          Franch
+        </label>
+      </div>
+      <div
+        className="pl-4"
+      >
+        <input
+          name="spokenLanguage"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="checkbox"
+          value="Spanish"
+        />
+        <label
+          className="text-gray-700 text-sm h-8 m-2"
+        >
+          Spanish
+        </label>
+      </div>
+      <div
+        className="pl-4"
+      >
+        <input
+          name="spokenLanguage"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="checkbox"
+          value="Italian"
+        />
+        <label
+          className="text-gray-700 text-sm h-8 m-2"
+        >
+          Italian
+        </label>
+      </div>
+    </div>
+  </div>
+  <div
+    className="flex flex-row-reverse m-8"
+  >
+    <button
+      className="w-full inline-block px-6 py-2 border-2 border-blue-600 text-blue-600 font-medium
+ text-xs leading-normal uppercase rounded hover:bg-blue hover:bg-opacity-5 focus:outline-none 
+ focus:ring-0 transition duration-150 ease-in-out h-16 lg:basis-1/6 md:basis-full sm:basis-full basis-full "
+      type="submit"
+    >
+      next step
+    </button>
+  </div>
+</form>
+`;
+
+exports[`>>>> Stepper ++++ Snapshot of Stepper2 form 1`] = `
+<form
+  className="bg-white shadow-md rounded p-12 m-10"
+  onSubmit={[Function]}
+>
+  <div
+    className="flex flex-row flex-wrap gap-10"
+  >
+    <div
+      className="lg:basis-[48%] md:basis-full sm:basis-full basis-full"
+    >
+      <label
+        className="block text-gray-700 text-sm font-bold h-8"
+      >
+        Date of Birth:
+      </label>
+      <input
+        className="appearance-none border rounded h-16 w-full text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+        id="brithDay"
+        name="brithDay"
+        onBlur={[Function]}
+        onChange={[Function]}
+        type="text"
+      />
+    </div>
+    <div
+      className="lg:basis-[48%] md:basis-full sm:basis-full basis-full"
+    >
+      <label
+        className="block text-gray-700 text-sm font-bold h-8 "
+      >
+        Address:
+      </label>
+      <input
+        className="appearance-none border h-16 rounded w-full text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+        id="address"
+        name="address"
+        onBlur={[Function]}
+        onChange={[Function]}
+        type="text"
+      />
+    </div>
+    <div
+      className="lg:basis-[48%] md:basis-full sm:basis-full basis-full"
+    >
+      <label
+        className="block text-gray-700 text-sm font-bold h-8 "
+      >
+        Height:
+      </label>
+      <input
+        className="appearance-none border h-16 rounded w-full text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+        id="height"
+        name="height"
+        onBlur={[Function]}
+        onChange={[Function]}
+        type="number"
+      />
+    </div>
+    <div
+      className="lg:basis-[48%] md:basis-full sm:basis-full basis-full"
+    >
+      <label
+        className="block text-gray-700 text-sm font-bold h-8"
+      >
+        Weight:
+      </label>
+      <input
+        className="appearance-none border h-16 rounded w-full text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+        id="Weight:"
+        name="weight"
+        onBlur={[Function]}
+        onChange={[Function]}
+        type="number"
+      />
+    </div>
+    <div
+      className="lg:basis-1/6 md:basis-full sm:basis-full basis-full"
+    >
+      <label
+        className="block text-gray-700 text-sm font-bold h-8"
+      >
+        Spoken Lanquage:
+      </label>
+      <div
+        className="pl-4"
+      >
+        <input
+          name="spokenLanguage"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="checkbox"
+          value="German"
+        />
+        <label
+          className="text-gray-700 text-sm h-8 m-2"
+        >
+          German
+        </label>
+      </div>
+      <div
+        className="pl-4"
+      >
+        <input
+          name="spokenLanguage"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="checkbox"
+          value="Franch"
+        />
+        <label
+          className="text-gray-700 text-sm h-8 m-2"
+        >
+          Franch
+        </label>
+      </div>
+      <div
+        className="pl-4"
+      >
+        <input
+          name="spokenLanguage"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="checkbox"
+          value="Spanish"
+        />
+        <label
+          className="text-gray-700 text-sm h-8 m-2"
+        >
+          Spanish
+        </label>
+      </div>
+      <div
+        className="pl-4"
+      >
+        <input
+          name="spokenLanguage"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="checkbox"
+          value="Italian"
+        />
+        <label
+          className="text-gray-700 text-sm h-8 m-2"
+        >
+          Italian
+        </label>
+      </div>
+    </div>
+  </div>
+  <div
+    className="flex flex-row-reverse m-8"
+  >
+    <button
+      className="w-full inline-block px-6 py-2 border-2 border-blue-600 text-blue-600 font-medium
+ text-xs leading-normal uppercase rounded hover:bg-blue hover:bg-opacity-5 focus:outline-none 
+ focus:ring-0 transition duration-150 ease-in-out h-16 lg:basis-1/6 md:basis-full sm:basis-full basis-full "
+      type="submit"
+    >
+      next step
+    </button>
+  </div>
+</form>
+`;

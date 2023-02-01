@@ -1,0 +1,103 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>>> Stepper ++++ Snapshot of Stepper1 form 1`] = `
+<form
+  className="bg-white shadow-md rounded p-12 m-10"
+  onSubmit={[Function]}
+>
+  <div>
+    <label
+      className="block text-gray-700 text-sm font-bold h-8"
+    >
+      Accept the Condation:
+    </label>
+  </div>
+  <div>
+    <input
+      name="condation"
+      onBlur={[Function]}
+      onChange={[Function]}
+      type="radio"
+      value="Yes"
+    />
+    <label>
+      Yes
+    </label>
+  </div>
+  <div>
+    <input
+      name="condation"
+      onBlur={[Function]}
+      onChange={[Function]}
+      type="radio"
+      value="No"
+    />
+    <label>
+      No
+    </label>
+  </div>
+  <div
+    className="flex flex-row-reverse m-8"
+  >
+    <button
+      className="w-full inline-block px-6 py-2 border-2 border-blue-600 text-blue-600 font-medium
+ text-xs leading-normal uppercase rounded hover:bg-blue hover:bg-opacity-5 focus:outline-none 
+ focus:ring-0 transition duration-150 ease-in-out h-16 lg:basis-1/6 md:basis-full sm:basis-full basis-full "
+      type="submit"
+    >
+      next step
+    </button>
+  </div>
+</form>
+`;
+
+exports[`>>>> Stepper ++++ Snapshot of Stepper3 form 1`] = `
+<form
+  className="bg-white shadow-md rounded p-12 m-10"
+  onSubmit={[Function]}
+>
+  <div>
+    <label
+      className="block text-gray-700 text-sm font-bold h-8"
+    >
+      Accept the Condation:
+    </label>
+  </div>
+  <div>
+    <input
+      name="condation"
+      onBlur={[Function]}
+      onChange={[Function]}
+      type="radio"
+      value="Yes"
+    />
+    <label>
+      Yes
+    </label>
+  </div>
+  <div>
+    <input
+      name="condation"
+      onBlur={[Function]}
+      onChange={[Function]}
+      type="radio"
+      value="No"
+    />
+    <label>
+      No
+    </label>
+  </div>
+  <div
+    className="flex flex-row-reverse m-8"
+  >
+    <button
+      className="w-full inline-block px-6 py-2 border-2 border-blue-600 text-blue-600 font-medium
+ text-xs leading-normal uppercase rounded hover:bg-blue hover:bg-opacity-5 focus:outline-none 
+ focus:ring-0 transition duration-150 ease-in-out h-16 lg:basis-1/6 md:basis-full sm:basis-full basis-full "
+      type="submit"
+    >
+      next step
+    </button>
+  </div>
+</form>
+`;

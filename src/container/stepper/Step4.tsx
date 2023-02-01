@@ -6,7 +6,7 @@ import {IUser} from "../../data/interface";
 const Step4 = () => {
 
     const usersData = useSelector(state => state as any)?.userState;
-    const userInfo = usersData.users as IUser;  
+    const userInfo = usersData?.users as IUser;  
     const dispatch = useDispatch(); 
     
     const itemText = (text:string) =>{
